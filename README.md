@@ -16,3 +16,5 @@ Update Product
 
 Delete Product
 ![DelPro](https://github.com/Pandeee12/Week02_lab_20102201_NguyenQuocDuy/assets/144768405/e82af101-0b55-434a-a267-7050da6c39c6)
+
+https://github.com/Pandeee12/Week05_lab_20102201_NguyenQuocDuy.git
